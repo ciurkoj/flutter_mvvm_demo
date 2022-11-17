@@ -6,7 +6,7 @@ import 'package:fluttermvvm/view%20models/movie_view_model.dart';
 
 class MovieListViewModel extends ChangeNotifier {
 
-  List<MovieViewModel> movies = List<MovieViewModel>(); 
+  List<MovieViewModel> movies = [];
 
   Future<void> fetchMovies(String keyword) async {
     final results =  await Webservice().fetchMovies(keyword);

@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:fluttermvvm/view%20models/movie_view_model.dart';
-import 'package:fluttermvvm/view%20models/movie_view_model.dart';
 
 
 class MovieList extends StatelessWidget {

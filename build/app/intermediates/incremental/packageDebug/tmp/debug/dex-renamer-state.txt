@@ -1,4 +1,4 @@
-#Wed Jun 10 21:32:10 IST 2020
-base.0=/home/yashwant/FlutterProjects/flutter_mvvm/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
+#Thu Nov 17 22:33:20 CET 2022
+base.0=/home/ciurkoj/StudioProjects/flutter_mvvm_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
+path.0=classes.dex
